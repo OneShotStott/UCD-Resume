@@ -6,6 +6,24 @@
     background-color: #676767;
 }
 
+
+
+.ui-menu-color-home {
+    background-color: #FEFACB
+}
+
+.ui-menu-color-resume {
+    background-color: #DDAA8D
+}
+
+.ui-menu-color-contact {
+    background-color: #CC6457
+}
+
+.ui-menu-color-download {
+    background-color: #547177
+}
+
 /* ---------------------------------------Headings----------- */
 
 header {
@@ -43,3 +61,4 @@ header {
     margin-bottom: 90px;
     color: #FFFFFF;
 }
+
